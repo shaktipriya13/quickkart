@@ -22,3 +22,5 @@ as per ts rules if we write anything then it must exist, this is not with js but
 
 ![alt text](image-5.png)
 app mtlb hota ha slash,uske bad app jitne folders banate jaoge utne nam lgte jayenge in url
+
+![alt text](image-6.png)
