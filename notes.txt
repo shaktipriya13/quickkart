@@ -1,0 +1,21 @@
+app ke andar jitne folder hum create krenge all of them will become routes , this is called app routing
+
+in mern  we needed to install dotenv but in next.js we get it builtin
+nextjs firstly run .env.local so that all the env vars are accessed first...u can name it .env or .env.local
+
+jitni bar we call an api, utne times we need to connect to the db and so for that we need lib/db.ts file
+
+in nextjs unlike express the website is not dependednt only on 1 server rather on multiple servers
+What actually runs where in Next.js
+🟢 Static pages (HTML)
+Built once
+Stored on CDN servers worldwide
+Served from nearest location
+
+jitne bar hum api call krte ha utne bar humare mongodb connection strings bnte hain & mongodb also has a limit of making connections
+when we make our own custom types we write them in global.d.ts files
+
+
+during runtime, ts converts to js and is compiled like normal js ,so we added typesafety to js and called it ts
+
+for frontend error,backend sends 400 status code
